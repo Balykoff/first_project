@@ -1,3 +1,4 @@
 *.log
 logs/*
 rare_critical_logs.log
+.DS_Store
