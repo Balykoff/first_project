@@ -9,3 +9,7 @@ And we are th champions my friends
 * А любые проблемы решались простым ROLLBACK-ом к счастливому моменту!
 
  git commit -a -m 'made a change'
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+Built like a spreadsheet, project tables give you a live canvas to filter,
+sort, and group issues and pull requests. 
+Tailor them to your needs with custom fields and saved views.
