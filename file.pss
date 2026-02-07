@@ -8,5 +8,9 @@ And we are th champions my friends
 * Все жизненные JOIN-ы были только с любимыми людьми;
 * А любые проблемы решались простым ROLLBACK-ом к счастливому моменту!
 
+<<<<<<< HEAD
 uno chandged 
 dos changed
+=======
+ git commit -a -m 'made a change'
+>>>>>>> iss_1
