@@ -13,4 +13,11 @@ uno chandged
 dos changed
 =======
  git commit -a -m 'made a change'
+<<<<<<< HEAD
 >>>>>>> iss_1
+=======
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+Built like a spreadsheet, project tables give you a live canvas to filter,
+sort, and group issues and pull requests. 
+Tailor them to your needs with custom fields and saved views.
+>>>>>>> testing
