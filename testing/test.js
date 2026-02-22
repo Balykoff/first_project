@@ -23,3 +23,13 @@ test('should render the correct title and paragraph content', () => {
   expect(getByText(container, 'Hello world')).toBeInTheDocument();
 });
 
+// index.test1.js
+import '@testing-library/jest-dom/extend-expect'
+
+test: value => {
+    // list of records will stringify to the same value
+    return (
+      Array.isArray(value) === false &&
+      String(value) === '[object MutationRecord]'
+    )
+  };
