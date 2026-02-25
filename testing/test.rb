@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="eng">
 <head>
     <title>Invalid HTML Example</title>
 </head>
@@ -8,5 +8,3 @@
     <p>This paragraph is missing its closing tag.
 </body>
 </html>
-<!DOCTYPE html>
-<html lang="eng">

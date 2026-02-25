@@ -1,0 +1,5 @@
+.bad-example {
+  color: red
+  background-color: yellow; /* This rule and subsequent ones might be ignored */
+}
+

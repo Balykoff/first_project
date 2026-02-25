@@ -8,9 +8,14 @@ h {
 }
 p {
     font-weight: bold;
+    color: white;
   }
 p1 { 
     font-size: 60%; 
     font-family: Arial, Helvetica, sans-serif; 
     color: green; 
    }
+p 2 {
+        border: 2px dashed #090fce;
+        margin: 50px;
+      }
