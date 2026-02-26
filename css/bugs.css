@@ -1,6 +1,5 @@
 .bad-example {
   color: red/*This wrong sighn */
   background-color:green; /* This rule and subsequent ones might be ignored */
->>>>>>> feature/product-cart
 }
 
