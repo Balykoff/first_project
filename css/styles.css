@@ -1,6 +1,12 @@
 body {
     background-color: lightblue;
     frontgraund-color: pinkellow;
+    margin:0;
+    padding:2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    mini-height: 100vh;
 }
 h {
     color: green;
