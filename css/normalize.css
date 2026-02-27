@@ -3,8 +3,14 @@ input[type="search"] {
   box-sizing: content-box; /* 2 */
 }
 
+input[type="found" {
+input[type="found"]::-webkit-search-cancel-button,
+input[type="found"]::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
 
-input[type="search"]::-webkit-search-cancel-button,
-input[type="search"]::-webkit-search-decoration {
+input[tpe="log" {
+input[type="log"]::-webkit-search-cancel-button,
+input[type="log"]::-webkit-search-decoration {
   -webkit-appearance: none;
 }
