@@ -17,6 +17,7 @@ test('should render the correct title and paragraph content', () => {
   const container = loadHtmlFixture(sampleHtml); 
   
   // Test that the paragraph has the expected text
-  expect(getByText(container, 'Hello world')).toBeInTheDocument();
+  expect(getByText(container, 'Welcome')).toBeInTheDocument();
+  expect(getByTest(container, 'Hello world')). toBeInTheDocument();
 });
 
