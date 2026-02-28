@@ -18,5 +18,6 @@ test('should render the correct title and paragraph content', () => {
   
   // Test that the paragraph has the expected text
   expect(getByText(container, 'Hello world')).toBeInTheDocument();
+  expect(getByTest(container, 'Welcome')). toBeInTheDocument();
 });
 
