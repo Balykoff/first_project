@@ -1,7 +1,10 @@
 <!DOCTYPE html>
 <<<<<<< HEAD
+<<<<<<< HEAD
 <html lang="eng">
 =======
+=======
+>>>>>>> hotfix/fix-normalize-bug
 <html lang="en">
 <html>
 >>>>>>> hotfix/fix-normalize-bug
