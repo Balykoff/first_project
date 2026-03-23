@@ -1,4 +1,3 @@
-// index.test.js
 import { getByText } from '@testing-library/dom';
 
 // Assume you have a function that loads your HTML fixture
@@ -21,3 +20,10 @@ test('should render the correct title and paragraph content', () => {
   expect(getByTest(container, 'Welcome')). toBeInTheDocument();
 });
 
+function testInput(re, inputStr) {
+  const midString = re.test(inputStr) ? " contains" : " does not contain";
+  console.log(`${inputStr}${midString} ${re.source}`);
+}
+
+testInput(/world/, str); 
+testInput(/foo/, str);

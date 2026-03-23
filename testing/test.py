@@ -1,6 +1,11 @@
-import pytest
-@pytest.fixture
+from . import test
+
 def user():
-return {"username": "test_user", "email": "test@example.com"}
- def pages()
+    return {"username": "test_user", "email": "test@example.com"}
+def pages():
  return("___":"___")
+
+def add_numbers(a, b):
+   return(a + b)
+def multiply_numbers(a, b);
+   return(a * b)
