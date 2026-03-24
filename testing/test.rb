@@ -1,13 +1,7 @@
 <!DOCTYPE html>
-<<<<<<< HEAD
-<<<<<<< HEAD
+HEAD
 <html lang="eng">
-=======
-=======
->>>>>>> hotfix/fix-normalize-bug
-<html lang="en">
-<html>
->>>>>>> hotfix/fix-normalize-bug
+hotfix/fix-normalize-bug
 <head>
     <title>Invalid HTML Example</title>
 </head>
