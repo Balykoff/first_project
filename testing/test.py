@@ -1,7 +1,7 @@
 from . import test
 
 def user():
-    return {"username": "test_user", "email": "test@example.com"}
+    return {"username": "test_user", "email": "test@example.com", "phone":"phone_number"}
 def pages():
  return("___":"___")
 
