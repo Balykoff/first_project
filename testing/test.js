@@ -27,3 +27,13 @@ function testInput(re, inputStr) {
 
 testInput(/world/, str); 
 testInput(/foo/, str);
+
+function testOutput(re, outputStr) {
+  const midString = re.test(outputStr) ? " contains" : " output contain";
+  console.log(`${outputStr}${midString} ${re.source}`);
+}
+
+testOutput(/world/, str); 
+testOutput(/foo/, str);
+
+
