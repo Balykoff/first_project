@@ -3,3 +3,4 @@ add to much information
 to see any result
 in thos file 
 ----------
+for training in VIM
